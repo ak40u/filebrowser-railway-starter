@@ -22,7 +22,7 @@ Roughly a third of deployments fail.
 
 ## What this does instead
 
-Builds on `filebrowser/filebrowser:v2.63.21` — the official image, at a fixed
+Builds on `filebrowser/filebrowser:v2.63.23` — the official image, at a fixed
 version — with a small entrypoint that handles first boot.
 
 - **No stock credentials.** The entrypoint creates the admin account with

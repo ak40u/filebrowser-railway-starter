@@ -1,4 +1,4 @@
-FROM filebrowser/filebrowser:v2.63.21
+FROM filebrowser/filebrowser:v2.63.23
 
 # The stock image creates an admin/admin account on first boot and leaves it at
 # that. This entrypoint sets the password from the environment instead, and
